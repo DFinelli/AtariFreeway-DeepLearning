@@ -1,5 +1,11 @@
-## To Execute
+# Setup
 
-`pip install -r requirements.txt`
+Requirements:
+- numpy
+- gym
+- torch
+- matplotlib
+- jupyter notebook
 
-`python main.py -n DDQN -m test -l saved.h5 -v`
+Execute:
+$ python main.py -n DDQN -m test -l saved.h5 -v`
